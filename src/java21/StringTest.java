@@ -9,6 +9,7 @@ public class StringTest {
 	/**
 	 * @param args
 	 */
+	@SuppressWarnings("static-access")
 	public static void main(String[] args) {
 		//显示美元符号以及三位加一个逗号
 		int accountBalance = 5005;
